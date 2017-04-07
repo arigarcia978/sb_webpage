@@ -1,0 +1,9 @@
+.hola {
+  background-image: url("./banner4.jpg");
+  background-size: cover;
+  height: 70vh;
+  background-repeat: no-repeat; 
+}
+nav, .nav-wrapper {
+  box-shadow: 0 !important;
+}
